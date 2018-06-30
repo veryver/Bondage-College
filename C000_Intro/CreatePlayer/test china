@@ -1,0 +1,10 @@
+Tag,Content
+EnterName,起一个名字并且分配一下技能点.
+ValidChars,你可以使用空格和英文字母.
+Validate,开始游戏
+Skill0,没有技能
+Skill1,艺术家
+Skill2,打架好手
+Skill3,绳子的领导者（其实就是在某些情况下可以自缚）
+Skill4,运动达人
+Skill5,魅力（对某些人有用）
